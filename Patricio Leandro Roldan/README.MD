@@ -3,18 +3,15 @@
 Este monorepositorio tiene la finalidad de presentar los distintos trabajos practicos que semana a semana se estarán realizando en la materia Electronica Microcontrolada.
 
 
-### Docente: *Gustavo Vera*
+###  Docente: *Gustavo Vera*
 ### Alumno: *Patricio Leandro Roldan* 
 
-## Estructura del Monorepositorio  
 
-TP1 - Simulación Eléctrica - 14/04/2024  
-
-## Resumen de Repositorio actual TP1  
-• TP #1 Simulación Eléctrica  
-
+## Resumen de Repositorio 
+ ###  TP #1 Simulación Eléctrica   14/04/2024  
 
 ### Objetivos:
+
 • Comprender los fundamentos eléctricos básicos en circuitos.
 
 • Aprender a diseñar y simular circuitos eléctricos.
@@ -39,3 +36,4 @@ comportamiento de la corriente y la tensión en el transformador.
 6. Diseñar y simular un circuito eléctrico complejo que involucre fuentes de
 tensión y corriente, resistencias, capacitores e inductores, y analizar su
 comportamiento.
+

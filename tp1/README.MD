@@ -1,18 +1,22 @@
 ![banner](/.rsc/img/Logo.png)
 
-Este monorepositorio tiene la finalidad de presentar los distintos trabajos practicos que semana a semana se estarán realizando en la materia Electronica Microcontrolada.
-
+# TP1 - Simulación Eléctrica - 14/04/2024  
 
 ###  Docente: *Gustavo Vera*
 ### Alumno: *Patricio Leandro Roldan* 
 
-### Estructura del Monorepositorio  
 
-TP1 - Fundamentos eléctricos básicos - 14/04/2024  
 
-## Resumen de Repositorio actual TP1  
+## Resumen de Repositorio  TP1  
 • TP #1 Simulación Eléctrica  
 
+        A. Documentacion 
+
+        B. Investigacion
+
+        C. Prototipos
+
+        D. Presentacion
 
 ### Objetivos:
 • Comprender los fundamentos eléctricos básicos en circuitos.
