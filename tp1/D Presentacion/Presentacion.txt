@@ -1,3 +1,10 @@
 #Presentacion
 ## Resumen de lo trabajado
-## video de 3 minutos donde se recorra lo realizado y explique lo aprendido
+### Este tp fue una toma de contacto tanto con Thinkercad, proteus, git y github.  
+
+### Hice un repaso de circuitos electricos, sobre todo en Corriente continua.  
+## 
+### 
+## 
+## 
+## 
