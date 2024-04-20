@@ -1,8 +1,8 @@
 #Presentacion
 ## Resumen de lo trabajado
-### Este tp fue una toma de contacto tanto con Thinkercad, proteus, git y github.  
+### Este tp fue una toma de contacto tanto con, proteus, y elementos basicos de electronica.  
 
-### Hice un repaso de circuitos electricos, sobre todo en Corriente continua.  
+### .  
 ## 
 ### 
 ## 
