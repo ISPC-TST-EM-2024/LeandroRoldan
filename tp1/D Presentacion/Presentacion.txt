@@ -8,3 +8,23 @@
 ## 
 ## 
 ## 
+
+
+Proyecto ATIIF (alerta temprana para intervencion de incendios forestales)
+
+paso 1.
+capa de percepción      <----  estamos aca
+Definir celula de sensores y actuadores:
+
+
+
+paso 2.
+
+capa de almacenamiento (internet y comunicacion)
+  como trabajar con una base de datos, y como administrar los datos
+
+   API
+
+capa de prepocesamiento
+
+Conectividad 

@@ -1,0 +1,23 @@
+F(A,B, C, D) = ABC + AB'D + ACD'
+{Propiedad distibutiva}
+
+F(A, B, C, D) = ABC + AB'D + ACD' = AB(C + D') + AC(D')
+{Se factoriza TC}
+
+F(A, B, C, D) = AB(C + D') + AC(D') = B(AC + D') + AC(D')
+{Propiedad asociativa)
+
+F(A, B, C, D) = B(AC + D') + AC(D') = AC(B + D') + B(D')
+
+{prop conmutativa}
+F(A, B, C, D) = AC(B + D') + B(D') = AC(D' + B) + B(D')
+
+{Se agrupa en terminos}
+F(A, B, C, D) = B(D' + AC) + AC(D')
+
+{Ley de absorcion}
+F(A, B, C, D) = B(AC + D') = B(AC) + B(D') = ABD + BD'
+
+
+Exprecion terminada:  F(A, B, C, D) = ABD + BD'
+
