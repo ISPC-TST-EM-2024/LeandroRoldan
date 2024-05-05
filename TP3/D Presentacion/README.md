@@ -11,7 +11,7 @@
 
 Se diseñó un circuito combinacional que implementa la función lógica F(A, B, C) = A'B + AC.
 
-![01](/C%20Prototipos/compuertas%201.png)  
+![01](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/compuertas%201.png)  
 
 ---  
 
@@ -89,12 +89,12 @@ A pesar de haber llegado a Expresiones diferentes, las tres son equivalentes.
 
 Se diseño un circuito combinacional simple para implentar un multiplexor (Mux) 4x1, Utilizando compuertas lógicas:  
 
-![mux](/C%20Prototipos/03%20circuito.png)   
+![mux](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/03%20circuito.png)   
 
 
 Con su tabla de verdad:  
 
-![Tabla_mux](/C%20Prototipos/03%20tabla%20de%20verdad.png) 
+![Tabla_mux](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/03%20tabla%20de%20verdad.png) 
 
 ---  
 
@@ -104,14 +104,14 @@ Con su tabla de verdad:
 Se diseñó un circuito combinacional que compara dos numeros de 2 bits, y produce una salida de 1 si A > B, 0 So A==B, y -1 Si A < B.  
 Para ello se realizó el siguiente esquema:  
 
-![04_esquema](/C%20Prototipos/04_circuito1.png)  
+![04_esquema](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/04_circuito1.png)  
 Por lo que cada salida, S0, S1 y S2, representan el valor 1,0,-1 respectivamente. con la respectiva tabla de verdad:  
 
-![04_tabla](/C%20Prototipos/04%20tabla%20de%20verdad.png)   
+![04_tabla](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/04%20tabla%20de%20verdad.png)   
 
 Y sus Mapas K:  
 
-![04_Mapa](/C%20Prototipos/04%20Tabla%20K.png)
+![04_Mapa](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/04%20Tabla%20K.png)
    
 
  ---
@@ -120,14 +120,16 @@ Y sus Mapas K:
 
 Se diseñó un circuito combinacional que implementa un codificador 4x2, utilizando compuertas lógicas.  
 
-![05_cod](/C%20Prototipos/05%20Codificador%204a2.png)  
+![05_cod](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/05%20Codificador%204a2.png)  
 
 
 Y corresponde a la siguiente tabla de verdad:  
 
-![05_tabla](/C%20Prototipos/05%20tabla.png)  
+![05_tabla](https://github.com/ISPC-TST-EM-2024/LeandroRoldan/blob/main/TP3/C%20Prototipos/05%20tabla.png)  
 
 
+
+Con el mismo se da por finalizado el trabajo practico Numero 3.  A disposicion. 
 ---  
 
 
