@@ -21,4 +21,7 @@ Este monorepositorio tiene la finalidad de presentar los distintos trabajos prac
 
 • TP #2 Simulación Electrónica 
 
+• TP #3 Circuito Lógico Combinacional 
+
+
 

@@ -5,8 +5,9 @@
 ###  Docente: *Gustavo Vera*
 ### Alumno: *Patricio Leandro Roldan* 
 
-
-### 1 Implementación de una función lógica:  
+---  
+  
+### Implementación de una función lógica:  
 
 Se diseñó un circuito combinacional que implementa la función lógica F(A, B, C) = A'B + AC.
 
@@ -20,28 +21,28 @@ Se diseñó un circuito combinacional que implementa la función lógica F(A, B,
 
 Se simplifica con la expresion lógica **"F(A,B, C, D) = ABC + AB'D + ACD"**  con algebra de boole
 
-F(A,B, C, D) = ABC + AB'D + ACD'  
+F(A,B, C, D) = **ABC + AB'D** + ACD'  
+
 {Propiedad distibutiva}  
 
-F(A, B, C, D) = ABC + AB'D + ACD' = AB(C + D') + AC(D')  
-{Se factoriza TC}  
+F(A, B, C, D) = *AB(C+D)* + **ACD**
 
-F(A, B, C, D) = AB(C + D') + AC(D') = B(AC + D') + AC(D')  
-{Propiedad asociativa}  
+{Propiedad Distributiva}    
+F(A,B,C,D) = AB(C+D) + *AC(D+B)*
 
-F(A, B, C, D) = B(AC + D') + AC(D') = AC(B + D') + B(D')  
+{Propiedad Conmutativa }  
 
-{prop conmutativa}  
-F(A, B, C, D) = AC(B + D') + B(D') = AC(D' + B) + B(D')  
+F(A,B,C,D) = AB(C+D) + ACD+ACD   
 
-{Se agrupa en terminos}  
-F(A, B, C, D) = B(D' + AC) + AC(D')  
+{Idempotencia}  
+F(A,B,C,D) = AB(C+D) + AC
 
-{Ley de absorcion}  
-F(A, B, C, D) = B(AC + D') = B(AC) + B(D') = ABD + BD'  
-  
-  
-Exprecion terminada:  F(A, B, C, D) = ABD + BD'    
+
+  #### La expresion simplificada es **F(A,B,C,D) = AB(C+D) + AC**
+
+
+
+
 
   
   Para realizar este mismo procedimiento con mapa de Karnaugh.  
@@ -68,11 +69,69 @@ Exprecion terminada:  F(A, B, C, D) = ABD + BD'
 
 Se Genera el mapa K de la siguiente forma:
 
-| Mapa CD/AB	| 00 	| 01 	| 11 	| 10 	|
+| AB\CD	| 00 	| 01 	| 11 	| 10 	|
 |---	  |---	|---	|---	|---	|
 | 00 	| 0 	| 0 	| 0 	| 1 	|
 | 01 	| 0 	| 1 	| 0 	| 1 	|
 | 11 	| 1 	| 1 	| 0 	| 1 	|
-| 10 	| 0 	| 1 	| 0 	| 1 	|  
+| 10 	| 0 	| 1 	| 0 	| 1 	|    
+  
+Formando asi 4 grupos
+**F = CD' + AC'D + ABD' + BC'D**
+
+
+A pesar de haber llegado a Expresiones diferentes, las tres son equivalentes.
+
+---  
+
+
+## Multiplexor:  
+
+Se diseño un circuito combinacional simple para implentar un multiplexor (Mux) 4x1, Utilizando compuertas lógicas:  
+
+![mux](/C%20Prototipos/03%20circuito.png)   
+
+
+Con su tabla de verdad:  
+
+![Tabla_mux](/C%20Prototipos/03%20tabla%20de%20verdad.png) 
+
+---  
+
+
+## Comparador de números de 2 bits:  
+
+Se diseñó un circuito combinacional que compara dos numeros de 2 bits, y produce una salida de 1 si A > B, 0 So A==B, y -1 Si A < B.  
+Para ello se realizó el siguiente esquema:  
+
+![04_esquema](/C%20Prototipos/04_circuito1.png)  
+Por lo que cada salida, S0, S1 y S2, representan el valor 1,0,-1 respectivamente. con la respectiva tabla de verdad:  
+
+![04_tabla](/C%20Prototipos/04%20tabla%20de%20verdad.png)   
+
+Y sus Mapas K:  
+
+![04_Mapa](/C%20Prototipos/04%20Tabla%20K.png)
+   
+
+ ---
+
+## Codificador:  
+
+Se diseñó un circuito combinacional que implementa un codificador 4x2, utilizando compuertas lógicas.  
+
+![05_cod](/C%20Prototipos/05%20Codificador%204a2.png)  
+
+
+Y corresponde a la siguiente tabla de verdad:  
+
+![05_tabla](/C%20Prototipos/05%20tabla.png)  
+
+
+---  
+
+
+
+
 
 
