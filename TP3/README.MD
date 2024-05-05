@@ -1,14 +1,14 @@
 ![logo](/.rsc/img/Logo.png)
 
-# TP2 - Simulación Electrónica - 21/04/2024  
+# TP3 - CLC - 
 
 ###  Docente: *Gustavo Vera*
 ### Alumno: *Patricio Leandro Roldan* 
 
 
 
-## Resumen de Repositorio  TP2  
-• TP #2 Simulación Electrónica  
+## Resumen de Repositorio  TP3  
+• TP #3 Circuito Lógico Combinacional  
 
         A. Documentacion 
 
@@ -18,21 +18,30 @@
 
         D. Presentacion
 
-### Objetivos:
-- Comprender los fundamentos eléctricos y electrónicos básicos en circuitos.
-- Aprender a diseñar y simular circuitos eléctricos y electrónicos.
-- Familiarizarse con los componentes eléctricos y electrónicos, y su función en
-los circuitos.
-- Analizar y comprender los resultados de las simulaciones.
 
-### Fundamentos electrónicos :
-1. Diseñar y simular un circuito con un diodo rectificador y analizar su
-comportamiento.
-2. Diseñar y simular un circuito con un transistor bipolar como amplificador y
-analizar su comportamiento.
-3. Diseñar y simular un circuito con un transistor bipolar como interruptor y
-analizar su comportamiento.
-4. Diseñar y simular un circuito con un amplificador operacional como sumador
-inversor y analizar su comportamiento.
-5. Diseñar y simular un circuito con un amplificador operacional como
-comparador y analizar su comportamiento.
+### Objetivos:  
+
+1. Comprender los fundamentos de la lógica combinacional y su aplicación en
+el diseño de circuitos lógicos.
+2. Aprender a utilizar el álgebra de Boole para la simplificación de expresiones
+lógicas y la implementación de circuitos combinacionales.
+3. Desarrollar habilidades para la identificación y análisis de problemas en
+circuitos lógicos combinacionales, y para la aplicación de soluciones
+efectivas utilizando las herramientas y técnicas adecuadas.
+  
+  
+   ## Desarrollo del Trabajo Práctico:  
+
+1. Implementación de una función lógica: Diseñar un circuito combinacional
+que implemente la función lógica F(A, B, C) = A'B + AC.
+2. Simplificación de una expresión lógica: Simplificar la expresión lógica F(A,
+B, C, D) = ABC + AB'D + ACD' utilizando álgebra de Boole y mapas de
+Karnaugh.
+3. Multiplexor: Diseñar un circuito combinacional que implemente un
+multiplexor 4:1 utilizando compuertas lógicas.
+4. Comparador de números de 2 bits: Diseñar un circuito combinacional que
+compare dos números de 2 bits A y B, y produzca una salida de 1 si A > B,
+0 si A = B, y -1 si A < B.
+5. Codificador: Diseñar un circuito combinacional que implemente un
+codificador 4:2 utilizando compuertas lógicas.
+
