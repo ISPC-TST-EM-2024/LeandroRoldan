@@ -17,11 +17,13 @@ Este monorepositorio tiene la finalidad de presentar los distintos trabajos prac
 
 
 ## Resumen de Repositorio actual 
-• TP #1 Simulación Eléctrica  
+• TP #1 Simulación Eléctrica:
+    - Se trata el diseño y simulacion de diferentes circuitos y componentes electricos.
 
-• TP #2 Simulación Electrónica 
+• TP #2 Simulación Electrónica:
+    - Se diseña y simula circuitos electronicos basicos a fin de entender su funcionamiento.
 
-• TP #3 Circuito Lógico Combinacional 
-
+• TP #3 Circuito Lógico Combinacional: 
+    - Estudio y aplicacion de Circuitos logicos combinacionales, asi como aplicacion de algebra booleana.
 
 
