@@ -1,38 +1,32 @@
 ![logo](/.rsc/img/Logo.png)
 
-# TP2 - Simulación Electrónica - 21/04/2024  
+# TP10 - Entrenador Básico
 
 ###  Docente: *Gustavo Vera*
 ### Alumno: *Patricio Leandro Roldan* 
 
 
 
-## Resumen de Repositorio  TP2  
-• TP #2 Simulación Electrónica  
+## Resumen de Repositorio  TP10 
+• TP #10 Simulación Electrónica  
 
-        A. Documentacion 
+        |_A. Documentacion 
+        |       
+        |_B. Investigacion
+        |
+        |_C. Prototipos
+        |
+        |_D. Presentacion
+        |
+        |_Readme.md  
 
-        B. Investigacion
-
-        C. Prototipos
-
-        D. Presentacion
-
+---
 ### Objetivos:
-- Comprender los fundamentos eléctricos y electrónicos básicos en circuitos.
-- Aprender a diseñar y simular circuitos eléctricos y electrónicos.
-- Familiarizarse con los componentes eléctricos y electrónicos, y su función en
-los circuitos.
-- Analizar y comprender los resultados de las simulaciones.
+- Familiarizarse con un entorno de desarrollo de bajo nivel
+- Introducir las primeras practicas con micros PIC de 8 bit
+- Introducción a las primeras instrucciones en assembler
+- Realizar desarrollos básicos con el PIC16F648
 
-### Fundamentos electrónicos :
-1. Diseñar y simular un circuito con un diodo rectificador y analizar su
-comportamiento.
-2. Diseñar y simular un circuito con un transistor bipolar como amplificador y
-analizar su comportamiento.
-3. Diseñar y simular un circuito con un transistor bipolar como interruptor y
-analizar su comportamiento.
-4. Diseñar y simular un circuito con un amplificador operacional como sumador
-inversor y analizar su comportamiento.
-5. Diseñar y simular un circuito con un amplificador operacional como
-comparador y analizar su comportamiento.
+### Desarrollo:  
+1) Identificar la palabra de configuración y explicar que representa cada fusible.
+2) Completar el código provisto en el entrenador básico PIC16f648, de manera que el display haga el conteo de 0 a 9. Se permite utilizar como delay la instrucción nop.
